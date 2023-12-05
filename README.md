@@ -19,7 +19,7 @@ Run the AirQuality_ETL.py script:
 
     python AirQuality_ETL.py  
 
-Check the generated air_quality_data.csv file for the extracted air quality data in CSV format.  
+Check the generated 'air_quality_data.csv' file for the extracted air quality data in CSV format.  
 
 ### Project Structure  
 
