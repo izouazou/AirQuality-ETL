@@ -7,7 +7,7 @@ This repository contains a simple Python script (AirQuality_ETL.py) for extracti
 To use this script, follow the steps below:  
 
 ### Prerequisites  
-**RapidAPI Key:** Obtain your RapidAPI key and update the `.env` file with your key. If you don't have a key, sign up on the RapidAPI website and create a new project to obtain your API key.  
+**RapidAPI Key:** Obtain your RapidAPI key and update the `.env` file with your key. If you don't have a key, sign up on the [RapidAPI website](https://rapidapi.com/) website and create a new project to obtain your API key.  
 
 **Dependencies:** Install the required Python libraries by running the following command:  
 
@@ -19,7 +19,7 @@ Run the AirQuality_ETL.py script:
 
     python AirQuality_ETL.py  
 
-Check the generated 'air_quality_data.csv' file for the extracted air quality data in CSV format.  
+Check the generated `air_quality_data.csv` file for the extracted air quality data in CSV format.  
 
 ### Project Structure  
 
