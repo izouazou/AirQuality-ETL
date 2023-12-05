@@ -19,7 +19,12 @@ To use this script, follow the steps below:
 **Dependencies:** Install the required Python libraries by running the following command:  
 
         pip install -r requirements.txt  
+### Configuration  
 
+Ensure that you have updated the `.env` file with your RapidAPI key:  
+
+        RAPIDAPI_KEY="your_rapidapi_key_here"  
+        
 ### Usage  
 
 Run the `AirQuality_ETL.py` script:  
@@ -28,12 +33,6 @@ Run the `AirQuality_ETL.py` script:
 
 Check the generated `air_quality_data.csv` file for the extracted air quality data in CSV format.  
 
-
-### Configuration  
-
-Ensure that you have updated the `.env` file with your RapidAPI key:  
-
-        RAPIDAPI_KEY="your_rapidapi_key_here"
 
 ### Project Structure  
 
