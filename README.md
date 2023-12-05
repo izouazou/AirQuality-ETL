@@ -29,15 +29,16 @@ Run the `AirQuality_ETL.py` script:
 
 Check the generated `air_quality_data.csv` file for the extracted air quality data in CSV format.  
 
-### Project Structure  
-
-**AirQuality_ETL.py:** Python script for ETL process.  
-**config.py:** Configuration file containing the RapidAPI key.  
-**.env:** Environment file storing sensitive information (e.g., API keys).  
-**requirements.txt:** List of Python dependencies.  
 
 ### Configuration  
 
 Ensure that you have updated the `.env` file with your RapidAPI key:  
 
         RAPIDAPI_KEY="your_rapidapi_key_here"
+
+### Project Structure  
+
+**AirQuality_ETL.py:** Python script for ETL process.  
+**config.py:** Configuration file containing the RapidAPI key.  
+**.env:** Environment file storing sensitive information (e.g., API keys).  
+**requirements.txt:** List of Python dependencies.  
