@@ -7,7 +7,7 @@ This repository contains a simple Python script (AirQuality_ETL.py) for extracti
 To use this script, follow the steps below:  
 
 ### Prerequisites  
-**RapidAPI Key:** Obtain your RapidAPI key and update the `.env` file with your key. If you don't have a key, sign up on the [RapidAPI website](https://rapidapi.com/) and create a new project to obtain your API key.  
+**RapidAPI Key:** Obtain your RapidAPI key and update the `.env` file with your key. If you don't have a key, sign up on the [RapidAPI website](https://rapidapi.com/hub) and create a new project to obtain your API key.  
 
 **Dependencies:** Install the required Python libraries by running the following command:  
 
