@@ -19,13 +19,13 @@ Set up a Python virtual environment:
 
 **Dependencies:** Install the required Python libraries by running the following command:  
 
-    pip install -r requirements.txt  
+        pip install -r requirements.txt  
 
 ### Usage  
 
 Run the `AirQuality_ETL.py` script:  
 
-    python AirQuality_ETL.py  
+        python AirQuality_ETL.py  
 
 Check the generated `air_quality_data.csv` file for the extracted air quality data in CSV format.  
 
@@ -40,4 +40,4 @@ Check the generated `air_quality_data.csv` file for the extracted air quality da
 
 Ensure that you have updated the `.env` file with your RapidAPI key:  
 
-    RAPIDAPI_KEY="your_rapidapi_key_here"
+        RAPIDAPI_KEY="your_rapidapi_key_here"
