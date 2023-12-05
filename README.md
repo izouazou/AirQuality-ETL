@@ -15,7 +15,7 @@ To use this script, follow the steps below:
 
 ### Usage  
 
-Run the AirQuality_ETL.py script:  
+Run the `AirQuality_ETL.py` script:  
 
     python AirQuality_ETL.py  
 
