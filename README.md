@@ -40,3 +40,8 @@ Check the generated `air_quality_data.csv` file for the extracted air quality da
 **config.py:** Configuration file containing the RapidAPI key.  
 **.env:** Environment file storing sensitive information (e.g., API keys).  
 **requirements.txt:** List of Python dependencies.  
+
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/izouazou/AirQuality-ETL/blob/main/LICENSE) file for details.
